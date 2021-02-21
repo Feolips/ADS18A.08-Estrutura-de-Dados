@@ -1,0 +1,5 @@
+print('2. Área do Retângulo')
+a = float(input('Insira a base do retângulo (maior dimensão, em metros): '))
+b = float(input('Agora insira a altura do retângulo (menor dimensão, em metros): '))
+area = float(a*b)
+print('A área do retângulo é:{:.2f}m²'.format(area))
