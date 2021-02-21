@@ -1,7 +1,7 @@
 # ADS18A.08 -  Estrutura de Dados
 ---
-### Exercícios da Disciplina - Semestre 2020.2
-* Aluno: Felipe Souza Vieira
+### Exercices from Discipline - Semester 2020.2
+* Student: Felipe Souza Vieira
    * Discente
 ***
 
