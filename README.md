@@ -2,7 +2,7 @@
 ---
 ### Exercices from Discipline - Semester 2020.2
 * Student: Felipe Souza Vieira
-   * Discente
+   * [Back to /~](https://github.com/Feolips)
 ***
 
 ### Questions:
