@@ -29,3 +29,10 @@
 
 - [ ] Review the 15th question
 - [x] Review the syntax of the 13th question
+
+### Solved Excercises Table 
+
+Question | Status | Correction
+-- | -- | --
+1 | Correct | ok
+2 | Wrong | Variabe type undefined
