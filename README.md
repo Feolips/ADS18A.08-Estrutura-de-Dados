@@ -5,7 +5,7 @@
    * Discente
 ***
 
-### Questões:
+### Questions:
 
 1. 
 2.
@@ -23,3 +23,9 @@
 14.
 15.
 16.
+
+
+### Status of **Resolution**
+
+- [ ] Review the 15th question
+- [x] Review the syntax of the 13th question
