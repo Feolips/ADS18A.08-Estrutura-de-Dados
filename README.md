@@ -19,7 +19,7 @@
 10.
 11.
 12.
-13.
+13. 
 14.
 15.
 16.
@@ -36,3 +36,5 @@ Question | Status | Correction
 -- | -- | --
 1 | Correct | ok
 2 | Wrong | Variabe type undefined
+3 | Correct | As seen at [search](www.google.com)
+4 | Correct, but unprecise | `exemple`
