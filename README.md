@@ -2,6 +2,7 @@
 ---
 ### Exercícios da Disciplina - Semestre 2020.2
 * Aluno: Felipe Souza Vieira
+   * Discente
 ***
 
 ### Questões:
